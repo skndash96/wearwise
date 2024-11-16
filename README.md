@@ -10,6 +10,6 @@ Website lists all products and a CTA to try out. Each user has limited tokens. T
 - Different poses, perspectives and environments
 - Share on social media
 
-I can take care of the full-stack app. Anyone up to build the AI part? comment/dm
-
 It's a good implementation and marketing that matters here. The idea is good imo.
+
+Dropping project - AI is expensive :(
